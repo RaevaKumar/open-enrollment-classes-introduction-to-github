@@ -19,7 +19,7 @@
       { "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-122.391269, 37.782140]},
         "properties": {"prop0": "value0"}
-        "properties": {"user2": "jgovea25"}
+      "properties": {"user1": "jgovea25"} },
         }
 
        ]
